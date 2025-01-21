@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Parth Tate</h1>
+<h1 align="center">Hello 👋, I'm Parth Tate</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Blog Posting site**
+Currently working on **Blog Posting site**
 
-- 🌱 I’m currently learning **React**
+Currently learning **React**
 
 - 💬 Ask me about **Javascript**
 
