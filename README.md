@@ -7,7 +7,7 @@ Currently learning **React**
 
 Ask me about **Javascript**
 
-EmailId: **parthtate575@gmail.com**
+Email: **parthtate575@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
