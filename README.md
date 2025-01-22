@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Parth Tate</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">thanks to javascript</h3>
 
 Currently working on **Blog Posting site**
 
