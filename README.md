@@ -3,7 +3,7 @@
 
 Currently working on **Backend and Database**
 
-Currently learning **Python **
+Currently learning **Python**
 
 Ask me about **Javascript**
 
